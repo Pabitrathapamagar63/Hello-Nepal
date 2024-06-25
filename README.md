@@ -1,2 +1,2 @@
 # Hello-Nepal
-My first repository on GitHub.
+My first repository in GitHub.
